@@ -1,4 +1,4 @@
-# To-Do-List-js
+# To Do List in JavaScript
  Task list using JavaScript
  
  ## Sample
